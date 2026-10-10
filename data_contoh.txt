@@ -1,0 +1,10 @@
+2026-10-05;makanan;Makan siang;25000
+2026-10-05;transport;Ojek ke kampus;15000
+2026-10-05;makanan;Kopi;18000;sama teman
+2026-10-06;hiburan;Nonton bioskop;120000
+2026-10-06;makanan;Makan malam;30000
+2026-10-06;makanan;Jajan;abc
+2026-10-07;transport;Bensin;-50000
+2026-10-07;belanja;;45000
+2026-10-07;belanja;Buku catatan;35000
+2026-10-08;makanan;Sarapan;12000

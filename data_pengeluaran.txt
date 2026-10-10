@@ -1,0 +1,2 @@
+2026-10-1;makanan;nasgor goreng;10000
+2026-10-2;skjda;dajhs;1000
